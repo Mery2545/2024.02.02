@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://live.staticflickr.com/4040/4290712225_e17389dfd5_b.jpg);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: aqua;
+    font-size: 60px;
+    font-family: 'Meddon', cursive;
+    text-align: center;
+    text-decoration: line-through;
+}
+img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    padding: 60px;
+    width: 60%;
+}
+h2{
+    font-family: 'Meddon', cursive;
+    font-family: 'Sancreek', serif;
+    font-size: 50px;
+    color: rgb(123, 29, 211);
+    text-align: center;
+}
+h3{
+    font-family: 'Meddon', cursive;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Sancreek', serif;
+    color-scheme: blue;
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+}
