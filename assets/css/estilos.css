@@ -1,5 +1,5 @@
 body{
-    background-image: url(https://live.staticflickr.com/4040/4290712225_e17389dfd5_b.jpg);
+    background-image: url(https://i.ytimg.com/vi/obJOMFWOUFk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGFIgZShhMA8=&rs=AOn4CLAAtjrLJ_DKGHsVDbHwB-GPgS3UNQ);
     background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
     background-repeat: no-repeat;
     background-size: cover;
@@ -10,7 +10,6 @@ h1{
     font-size: 60px;
     font-family: 'Meddon', cursive;
     text-align: center;
-    text-decoration: line-through;
 }
 img{
     display: flex;
@@ -18,21 +17,23 @@ img{
     justify-content: center;
     margin: 50px;
     padding: 60px;
-    width: 60%;
+    width: 70%;
 }
 h2{
     font-family: 'Meddon', cursive;
     font-family: 'Sancreek', serif;
     font-size: 50px;
-    color: rgb(123, 29, 211);
+    color: #EBEB13 ;
     text-align: center;
 }
 h3{
     font-family: 'Meddon', cursive;
     font-family: 'Noto Sans SC', sans-serif;
     font-family: 'Sancreek', serif;
-    color-scheme: blue;
-    color: brown;
+    color: #0A1FEF ;
     font-size: 30px;
     text-align: center;
+}
+p{
+    color: azure;
 }
